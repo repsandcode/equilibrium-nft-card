@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontend mentor](https://www.frontendmentor.io/solutions/equilibirum-nft-cxztZr9rqi)
+- Live Site URL: [nftequilibrium](https://nftequilibrium.vercel.app/)
 
 
 ### Built with
